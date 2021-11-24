@@ -1,1 +1,1 @@
-Source files for the article "Pygame --- A Primer". Link TBD
+Simple 2D Side Scrolling Game
